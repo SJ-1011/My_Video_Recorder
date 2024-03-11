@@ -23,6 +23,7 @@
         flipping = 0
 
 2. 프레임 처리
+
         while True:
                 # 프레임 읽기
                 ret, frame = cap.read()
