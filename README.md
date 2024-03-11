@@ -6,24 +6,33 @@
 -------------
 
 1. 프로그램 실행 화면
+
 ![실행 화면](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/a5b01f93-d053-43e3-8091-ebf7322bd69d)
+
 실행 시 웹캠의 화면을 볼 수 있다.
 
-2. 기본 녹화 영상
+3. 기본 녹화 영상
+
 ![video1](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/8be547a4-6818-46e4-b8a4-5ae6eb228686)
+
 녹화된 영상 avi 파일을 gif로 변환하였다.
 space 키를 통하여 녹화를 시작하고 종료할 수 있다.
 모든 프레임이 다 담긴 것을 확인할 수 있다.
 
-3. 좌우 반전 녹화 영상
+4. 좌우 반전 녹화 영상
+
 ![video2](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/a626540d-2902-4e46-b6e8-fac095f72709)
+
 녹화된 영상 avi 파일을 gif로 변환하였다.
 F키를 누르면 좌우 반전이 되는 것을 확인할 수 있다.
 
-4. 기타
+5. 기타
+
 ![image](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/2790149c-6590-4820-98b8-5d286335a35f)
+
 녹화 영상을 구분하기 쉽게 순서대로 숫자를 매겨 저장하도록 만들었다.
 참고 코드
+
                 output = cv2.VideoWriter(f'video{i}.avi', fourcc, 20.0, (640, 480))
                 i = i + 1
 
