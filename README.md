@@ -7,19 +7,19 @@
 
 1. 초기 세팅
 
-    # 카메라 영상 가져오기
+    카메라 영상 가져오기
     cap = cv2.VideoCapture(0)
     
-    # 동영상 저장을 위한 설정
+    동영상 저장을 위한 설정
     fourcc = cv2.VideoWriter_fourcc(*'XVID')
     output = None
     i = 1
     
-    # 초기 모드 설정
+    초기 모드 설정
     preview_mode = True
     recording_mode = False
 
-    # flip 모드 확인
+    flip 모드 확인
     flipping = 0
 
 2. 프레임 처리
