@@ -40,7 +40,7 @@ F키를 누르면 좌우 반전이 되는 것을 확인할 수 있다.
 
 #### 5. 기타
 
-![image](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/2790149c-6590-4820-98b8-5d286335a35f)
+![image](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/c0113920-cbad-4ae2-9446-a6e63f3d4107)
 
 녹화 영상을 구분하기 쉽게 순서대로 숫자를 매겨 저장하도록 만들었다.
 
