@@ -2,6 +2,10 @@
 
 > ### OpenCV 라이브러리를 이용한 웹캠을 녹화하는 Video Recorder.
 
+&nbsp;
+&nbsp;
+
+
 프로그램 기능 설명
 -------------
 
@@ -39,6 +43,10 @@ F키를 누르면 좌우 반전이 되는 것을 확인할 수 있다.
 >
 >                output = cv2.VideoWriter(f'video{i}.avi', fourcc, 20.0, (640, 480))
 >                i = i + 1
+
+
+&nbsp;
+&nbsp;
 
 
 코드 설명
