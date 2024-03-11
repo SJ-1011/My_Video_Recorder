@@ -26,9 +26,7 @@
 
 #### 3. 기본 녹화 영상
 
-![video1](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/8be547a4-6818-46e4-b8a4-5ae6eb228686)
-
-녹화된 영상 avi 파일을 gif로 변환하였다.
+https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/08d05d37-7762-418f-be27-b7f47562442e
 
 space 키를 통하여 녹화를 시작하고 종료할 수 있다.
 
@@ -36,9 +34,7 @@ space 키를 통하여 녹화를 시작하고 종료할 수 있다.
 
 #### 4. 좌우 반전 녹화 영상
 
-![video2](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/a626540d-2902-4e46-b6e8-fac095f72709)
-
-녹화된 영상 avi 파일을 gif로 변환하였다.
+https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/aaee44d2-556b-483a-a38f-0bf5a3269e18
 
 F키를 누르면 좌우 반전이 되는 것을 확인할 수 있다.
 
