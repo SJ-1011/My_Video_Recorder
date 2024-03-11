@@ -17,7 +17,13 @@
 
 실행 시 웹캠의 화면을 볼 수 있다.
 
-#### 2. 기본 녹화 영상
+#### 2. 프로그램 녹화 시 화면
+
+![image](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/39e19e1a-ed19-4908-9ad4-58811394b0cc)
+
+녹화 시 화면 위쪽에 빨간색 원 모양을 확인할 수 있다.
+
+#### 3. 기본 녹화 영상
 
 ![video1](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/8be547a4-6818-46e4-b8a4-5ae6eb228686)
 
@@ -27,7 +33,7 @@ space 키를 통하여 녹화를 시작하고 종료할 수 있다.
 
 모든 프레임이 다 담긴 것을 확인할 수 있다.
 
-#### 3. 좌우 반전 녹화 영상
+#### 4. 좌우 반전 녹화 영상
 
 ![video2](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/a626540d-2902-4e46-b6e8-fac095f72709)
 
@@ -35,7 +41,7 @@ space 키를 통하여 녹화를 시작하고 종료할 수 있다.
 
 F키를 누르면 좌우 반전이 되는 것을 확인할 수 있다.
 
-#### 4. 기타
+#### 5. 기타
 
 ![image](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/2790149c-6590-4820-98b8-5d286335a35f)
 
