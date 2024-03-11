@@ -26,8 +26,6 @@
 
 #### 3. 기본 녹화 영상
 
-https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/08d05d37-7762-418f-be27-b7f47562442e
-
 ![video2](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/2ecc1b9e-4231-48a8-9f1d-45496dec2c24)
 
 space 키를 통하여 녹화를 시작하고 종료할 수 있다.
@@ -35,8 +33,6 @@ space 키를 통하여 녹화를 시작하고 종료할 수 있다.
 모든 프레임이 다 담긴 것을 확인할 수 있다.
 
 #### 4. 좌우 반전 녹화 영상
-
-https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/aaee44d2-556b-483a-a38f-0bf5a3269e18
 
 ![video1](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/1cd988e8-9303-4939-a726-53505e1dc5a8)
 
