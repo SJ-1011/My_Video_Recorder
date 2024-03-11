@@ -19,7 +19,8 @@
 
 #### 2. 프로그램 녹화 시 화면
 
-![image](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/39e19e1a-ed19-4908-9ad4-58811394b0cc)
+![image](https://github.com/SJ-1011/My_Video_Recorder/assets/109647265/d845e2cb-399d-4dd4-a270-58c60b63b92d)
+
 
 녹화 시 화면 위쪽에 빨간색 원 모양을 확인할 수 있다.
 
